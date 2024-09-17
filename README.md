@@ -1,5 +1,4 @@
-# Little Lemon Web Application
-
+# META-BACKEND-CAPSTONE-COURSEWORK
 
 ## Main Steps
 1. **Create an environment:**
@@ -94,20 +93,3 @@
     ```
     deactivate
     ```
-
-    ## Project Overview
-When you submit your assignment, other learners in the course will review and grade your work. They will evaluate the following:
-
-Does the web application use Django to serve static HTML content?
-
-Has the learner committed the project to a Git repository?
-
-Does the application connect the backend to a MySQL database?
-
-Are the menu and table booking APIs implemented?
-
-Is the application set up with user registration and authentication?
-
-Does the application contain unit tests?
-
-Can the API be tested with the Insomnia REST client?
